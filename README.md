@@ -106,6 +106,4 @@ To stream actual audio files, add a `src` URL to each song in `SONGS` and set `a
 - [ ] Real audio files and artwork
 - [ ] Light theme
 
-## License
-
-MIT
+##Deployment Link:- https://vercel.com/srushti-sachin-ambre-s-projects/waveline/CyUVWxGTcV1uY1yipLTKCjLnZjis
